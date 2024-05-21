@@ -18,3 +18,9 @@ The application builds a command line game where the user can choose the easy mo
 
 ## Dungeons and Dragons Clone
 Dungeons and dragons clone game where the user helps the warrior finds a way to exit the dungeons. A warrior has been trapped in the dungeons of the evil black queen and the user's task is to help the warrior to successfully exit the dungeons
+
+## Map Traversal Algorithm / Pathfinder Algorithm
+Algorithm that allows a user to input a file that contains a grid of different nodes, allowing for a user to find a desired pathway from one node to another node on the graph while allowing constraints on the amount of private / construction roads that may be taken during the path.
+
+Uses a graph to assemble the map and DFS traversal to find the path from one node to another node. No optimization was performed to find the optimal path, but changes could be made to introduces weighted edges on the graph, finding the shortest possible path between nodes.
+
