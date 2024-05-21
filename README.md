@@ -12,3 +12,6 @@ Uses a binary search tree to resolve collisions between objects.
 
 ## Wordle Clone
 Wordle clone game that allows a user to play a variant of the famous game Wordle, where the word may be any length composed of UTF-16 characters
+
+## Bridge Builder
+The application builds a command line game where the user can choose the easy mode or hard mode in which the user will act as a civil engineer & will construct a bridge across a vast lake where the swamp is in the bottom right corner and in the hard mode the rival group has hired their own automated engineer to intervene in your bridge construction
