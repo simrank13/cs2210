@@ -9,3 +9,6 @@ Uses a dictionary to improve runtime of the game.
 Game that allows a user to enter text in command line and when ran, gives players different output files depending on their input (i.e., if sound is entered, user will hear a moo sound or if tree entered, a tree png will be entered)
 
 Uses a binary search tree to resolve collisions between objects.
+
+## Wordle Clone
+Wordle clone game that allows a user to play a variant of the famous game Wordle, where the word may be any length composed of UTF-16 characters
