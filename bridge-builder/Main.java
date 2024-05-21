@@ -1,4 +1,4 @@
-// Main.java written by Prof Luke. Please do not modify this file, but make your code work with this main program.
+
 package BridgeBuilderAdv;
 
 import java.util.Scanner;
